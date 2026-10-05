@@ -4,12 +4,12 @@ import (
 	"log/slog"
 	"testing"
 
-	authentication "github.com/CimaCha/gophermart-loyal-service/internal/gophermart/auth"
-	balansh "github.com/CimaCha/gophermart-loyal-service/internal/gophermart/balance/handler"
-	"github.com/CimaCha/gophermart-loyal-service/internal/gophermart/config"
-	orderh "github.com/CimaCha/gophermart-loyal-service/internal/gophermart/order/handler"
-	userh "github.com/CimaCha/gophermart-loyal-service/internal/gophermart/user/handler"
-	"github.com/CimaCha/gophermart-loyal-service/pkg/ratelimitstore"
+	authentication "github.com/Sayfargo/gophermart-loyal-service/internal/gophermart/auth"
+	balansh "github.com/Sayfargo/gophermart-loyal-service/internal/gophermart/balance/handler"
+	"github.com/Sayfargo/gophermart-loyal-service/internal/gophermart/config"
+	orderh "github.com/Sayfargo/gophermart-loyal-service/internal/gophermart/order/handler"
+	userh "github.com/Sayfargo/gophermart-loyal-service/internal/gophermart/user/handler"
+	"github.com/Sayfargo/gophermart-loyal-service/pkg/ratelimitstore"
 	"github.com/stretchr/testify/require"
 )
 

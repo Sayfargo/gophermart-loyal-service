@@ -9,7 +9,7 @@ import (
 	"log/slog"
 	"net/http"
 
-	"github.com/CimaCha/gophermart-loyal-service/internal/accrual/goods/model"
+	"github.com/Sayfargo/gophermart-loyal-service/internal/accrual/goods/model"
 )
 
 // GoodsService определяет интерфейс бизнес-логики для работы с товарами,

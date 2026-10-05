@@ -5,7 +5,7 @@ import (
 	"errors"
 	"testing"
 
-	"github.com/CimaCha/gophermart-loyal-service/internal/accrual/goods/model"
+	"github.com/Sayfargo/gophermart-loyal-service/internal/accrual/goods/model"
 	"github.com/shopspring/decimal"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"

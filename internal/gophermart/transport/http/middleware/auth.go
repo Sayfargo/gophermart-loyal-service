@@ -4,9 +4,9 @@ import (
 	"errors"
 	"net/http"
 
-	"github.com/CimaCha/gophermart-loyal-service/internal/gophermart/transport/ctxkeys"
+	"github.com/Sayfargo/gophermart-loyal-service/internal/gophermart/transport/ctxkeys"
 
-	authentication "github.com/CimaCha/gophermart-loyal-service/internal/gophermart/auth"
+	authentication "github.com/Sayfargo/gophermart-loyal-service/internal/gophermart/auth"
 	"github.com/google/uuid"
 )
 

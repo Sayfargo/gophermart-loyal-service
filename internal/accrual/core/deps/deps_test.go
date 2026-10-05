@@ -4,10 +4,10 @@ import (
 	"log/slog"
 	"testing"
 
-	"github.com/CimaCha/gophermart-loyal-service/internal/accrual/config"
-	goodsh "github.com/CimaCha/gophermart-loyal-service/internal/accrual/goods/handler"
-	ordersh "github.com/CimaCha/gophermart-loyal-service/internal/accrual/order/handler"
-	"github.com/CimaCha/gophermart-loyal-service/pkg/ratelimitstore"
+	"github.com/Sayfargo/gophermart-loyal-service/internal/accrual/config"
+	goodsh "github.com/Sayfargo/gophermart-loyal-service/internal/accrual/goods/handler"
+	ordersh "github.com/Sayfargo/gophermart-loyal-service/internal/accrual/order/handler"
+	"github.com/Sayfargo/gophermart-loyal-service/pkg/ratelimitstore"
 	"github.com/stretchr/testify/require"
 )
 

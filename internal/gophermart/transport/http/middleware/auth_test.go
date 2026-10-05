@@ -7,9 +7,9 @@ import (
 	"net/http/httptest"
 	"testing"
 
-	authentication "github.com/CimaCha/gophermart-loyal-service/internal/gophermart/auth"
-	"github.com/CimaCha/gophermart-loyal-service/internal/gophermart/transport/ctxkeys"
-	"github.com/CimaCha/gophermart-loyal-service/internal/gophermart/transport/http/middleware/mock"
+	authentication "github.com/Sayfargo/gophermart-loyal-service/internal/gophermart/auth"
+	"github.com/Sayfargo/gophermart-loyal-service/internal/gophermart/transport/ctxkeys"
+	"github.com/Sayfargo/gophermart-loyal-service/internal/gophermart/transport/http/middleware/mock"
 	"github.com/google/uuid"
 	"github.com/stretchr/testify/require"
 	"go.uber.org/mock/gomock"

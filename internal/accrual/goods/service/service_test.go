@@ -9,8 +9,8 @@ import (
 	testifymock "github.com/stretchr/testify/mock"
 	"github.com/stretchr/testify/require"
 
-	"github.com/CimaCha/gophermart-loyal-service/internal/accrual/goods/model"
-	mock "github.com/CimaCha/gophermart-loyal-service/internal/accrual/goods/service/mock"
+	"github.com/Sayfargo/gophermart-loyal-service/internal/accrual/goods/model"
+	mock "github.com/Sayfargo/gophermart-loyal-service/internal/accrual/goods/service/mock"
 )
 
 func mustDecimal(s string) decimal.Decimal {

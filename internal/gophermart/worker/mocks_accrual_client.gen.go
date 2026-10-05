@@ -7,7 +7,7 @@ package worker
 import (
 	"context"
 
-	"github.com/CimaCha/gophermart-loyal-service/internal/gophermart/accrualclient"
+	"github.com/Sayfargo/gophermart-loyal-service/internal/gophermart/accrualclient"
 	mock "github.com/stretchr/testify/mock"
 )
 

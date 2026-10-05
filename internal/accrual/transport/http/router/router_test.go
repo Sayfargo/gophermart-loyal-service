@@ -9,9 +9,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/CimaCha/gophermart-loyal-service/internal/accrual/config"
-	"github.com/CimaCha/gophermart-loyal-service/internal/accrual/core/deps"
-	"github.com/CimaCha/gophermart-loyal-service/pkg/ratelimitstore"
+	"github.com/Sayfargo/gophermart-loyal-service/internal/accrual/config"
+	"github.com/Sayfargo/gophermart-loyal-service/internal/accrual/core/deps"
+	"github.com/Sayfargo/gophermart-loyal-service/pkg/ratelimitstore"
 	"github.com/go-chi/chi/v5"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"

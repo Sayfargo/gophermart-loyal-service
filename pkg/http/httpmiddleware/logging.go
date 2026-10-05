@@ -5,7 +5,7 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/CimaCha/gophermart-loyal-service/pkg/http/httpio"
+	"github.com/Sayfargo/gophermart-loyal-service/pkg/http/httpio"
 )
 
 // Logging возвращает Middleware, которое логирует детали входящего HTTP-запроса и исходящего ответа.

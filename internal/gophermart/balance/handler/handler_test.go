@@ -17,8 +17,8 @@ import (
 	"github.com/stretchr/testify/mock"
 	"github.com/stretchr/testify/require"
 
-	"github.com/CimaCha/gophermart-loyal-service/internal/gophermart/balance/model"
-	"github.com/CimaCha/gophermart-loyal-service/internal/gophermart/transport/ctxkeys"
+	"github.com/Sayfargo/gophermart-loyal-service/internal/gophermart/balance/model"
+	"github.com/Sayfargo/gophermart-loyal-service/internal/gophermart/transport/ctxkeys"
 )
 
 func init() {

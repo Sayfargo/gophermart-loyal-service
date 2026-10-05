@@ -7,7 +7,7 @@ package handler
 import (
 	"context"
 
-	"github.com/CimaCha/gophermart-loyal-service/internal/gophermart/balance/model"
+	"github.com/Sayfargo/gophermart-loyal-service/internal/gophermart/balance/model"
 	"github.com/google/uuid"
 	"github.com/shopspring/decimal"
 	mock "github.com/stretchr/testify/mock"

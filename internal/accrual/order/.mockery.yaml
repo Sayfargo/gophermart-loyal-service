@@ -26,10 +26,10 @@ template: testify
 template-schema: '{{.Template}}.schema.json'
 
 packages:
-  github.com/CimaCha/gophermart-loyal-service/internal/accrual/order/handler:
+  github.com/Sayfargo/gophermart-loyal-service/internal/accrual/order/handler:
     config:
       all: true
 
-  github.com/CimaCha/gophermart-loyal-service/internal/accrual/order/service:
+  github.com/Sayfargo/gophermart-loyal-service/internal/accrual/order/service:
     config:
       all: true

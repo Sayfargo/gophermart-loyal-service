@@ -7,9 +7,9 @@ import (
 	"os/signal"
 	"syscall"
 
-	"github.com/CimaCha/gophermart-loyal-service/internal/gophermart/config"
-	"github.com/CimaCha/gophermart-loyal-service/internal/gophermart/core/app"
-	"github.com/CimaCha/gophermart-loyal-service/pkg/slogger"
+	"github.com/Sayfargo/gophermart-loyal-service/internal/gophermart/config"
+	"github.com/Sayfargo/gophermart-loyal-service/internal/gophermart/core/app"
+	"github.com/Sayfargo/gophermart-loyal-service/pkg/slogger"
 )
 
 func main() {

@@ -7,9 +7,9 @@ import (
 
 	_ "embed"
 
-	"github.com/CimaCha/gophermart-loyal-service/internal/accrual/worker"
-	"github.com/CimaCha/gophermart-loyal-service/pkg/ratelimitstore"
-	"github.com/CimaCha/gophermart-loyal-service/pkg/slogger"
+	"github.com/Sayfargo/gophermart-loyal-service/internal/accrual/worker"
+	"github.com/Sayfargo/gophermart-loyal-service/pkg/ratelimitstore"
+	"github.com/Sayfargo/gophermart-loyal-service/pkg/slogger"
 	"github.com/stretchr/testify/assert/yaml"
 )
 

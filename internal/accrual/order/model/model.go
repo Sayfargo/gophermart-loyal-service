@@ -6,7 +6,7 @@ import (
 	"errors"
 	"time"
 
-	"github.com/CimaCha/gophermart-loyal-service/pkg/luhn"
+	"github.com/Sayfargo/gophermart-loyal-service/pkg/luhn"
 	"github.com/shopspring/decimal"
 )
 

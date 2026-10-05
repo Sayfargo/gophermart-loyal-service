@@ -26,6 +26,6 @@ template: testify
 template-schema: '{{.Template}}.schema.json'
 
 packages:
-  github.com/CimaCha/gophermart-loyal-service/internal/gophermart/worker:
+  github.com/Sayfargo/gophermart-loyal-service/internal/gophermart/worker:
     config:
       all: true

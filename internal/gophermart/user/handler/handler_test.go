@@ -10,7 +10,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/CimaCha/gophermart-loyal-service/internal/gophermart/user/service"
+	"github.com/Sayfargo/gophermart-loyal-service/internal/gophermart/user/service"
 	"github.com/stretchr/testify/mock"
 	"github.com/stretchr/testify/require"
 )

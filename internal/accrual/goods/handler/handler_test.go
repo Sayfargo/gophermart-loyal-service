@@ -12,8 +12,8 @@ import (
 	"github.com/stretchr/testify/assert"
 	testifymock "github.com/stretchr/testify/mock"
 
-	mock "github.com/CimaCha/gophermart-loyal-service/internal/accrual/goods/handler/mock"
-	"github.com/CimaCha/gophermart-loyal-service/internal/accrual/goods/model"
+	mock "github.com/Sayfargo/gophermart-loyal-service/internal/accrual/goods/handler/mock"
+	"github.com/Sayfargo/gophermart-loyal-service/internal/accrual/goods/model"
 )
 
 func newTestLogger() *slog.Logger {

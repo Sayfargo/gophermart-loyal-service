@@ -9,8 +9,8 @@ import (
 	"log/slog"
 	"net/http"
 
-	"github.com/CimaCha/gophermart-loyal-service/internal/gophermart/user/model"
-	"github.com/CimaCha/gophermart-loyal-service/internal/gophermart/user/service"
+	"github.com/Sayfargo/gophermart-loyal-service/internal/gophermart/user/model"
+	"github.com/Sayfargo/gophermart-loyal-service/internal/gophermart/user/service"
 )
 
 // UserService определяет интерфейс взаимодействия со слоем бизнес-логики пользователей.

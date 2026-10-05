@@ -6,7 +6,7 @@ import (
 	"context"
 	"sync"
 
-	goodsmodel "github.com/CimaCha/gophermart-loyal-service/internal/accrual/goods/model"
+	goodsmodel "github.com/Sayfargo/gophermart-loyal-service/internal/accrual/goods/model"
 )
 
 // GoodsCache представляет собой потокобезопасную обертку над срезом правил вознаграждений,

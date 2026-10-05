@@ -5,7 +5,7 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/CimaCha/gophermart-loyal-service/pkg/ratelimitstore"
+	"github.com/Sayfargo/gophermart-loyal-service/pkg/ratelimitstore"
 )
 
 // RateLimiter определяет интерфейс для инкрементирования счетчиков запросов,

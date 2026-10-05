@@ -26,6 +26,6 @@ template: testify
 template-schema: '{{.Template}}.schema.json'
 
 packages:
-  github.com/CimaCha/gophermart-loyal-service/internal/accrual/worker:
+  github.com/Sayfargo/gophermart-loyal-service/internal/accrual/worker:
     config:
       all: true

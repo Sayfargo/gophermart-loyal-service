@@ -10,7 +10,7 @@ import (
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 
-	"github.com/CimaCha/gophermart-loyal-service/internal/gophermart/balance/model"
+	"github.com/Sayfargo/gophermart-loyal-service/internal/gophermart/balance/model"
 )
 
 func mustDecimal(s string) decimal.Decimal {

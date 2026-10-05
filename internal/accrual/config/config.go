@@ -7,11 +7,11 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/CimaCha/gophermart-loyal-service/internal/accrual/worker"
-	"github.com/CimaCha/gophermart-loyal-service/pkg/httpserver"
-	"github.com/CimaCha/gophermart-loyal-service/pkg/postgres"
-	"github.com/CimaCha/gophermart-loyal-service/pkg/ratelimitstore"
-	"github.com/CimaCha/gophermart-loyal-service/pkg/slogger"
+	"github.com/Sayfargo/gophermart-loyal-service/internal/accrual/worker"
+	"github.com/Sayfargo/gophermart-loyal-service/pkg/httpserver"
+	"github.com/Sayfargo/gophermart-loyal-service/pkg/postgres"
+	"github.com/Sayfargo/gophermart-loyal-service/pkg/ratelimitstore"
+	"github.com/Sayfargo/gophermart-loyal-service/pkg/slogger"
 )
 
 // Config объединяет в себе все конфигурационные подсистемы приложения:

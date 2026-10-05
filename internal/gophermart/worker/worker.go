@@ -10,8 +10,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/CimaCha/gophermart-loyal-service/internal/gophermart/accrualclient"
-	ordermodel "github.com/CimaCha/gophermart-loyal-service/internal/gophermart/order/model"
+	"github.com/Sayfargo/gophermart-loyal-service/internal/gophermart/accrualclient"
+	ordermodel "github.com/Sayfargo/gophermart-loyal-service/internal/gophermart/order/model"
 	"github.com/google/uuid"
 	"github.com/jackc/pgx/v5"
 	"github.com/shopspring/decimal"

@@ -6,9 +6,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/CimaCha/gophermart-loyal-service/internal/gophermart/user/model"
-	"github.com/CimaCha/gophermart-loyal-service/internal/testenv"
-	gophermartMigrations "github.com/CimaCha/gophermart-loyal-service/migrations/gophermart"
+	"github.com/Sayfargo/gophermart-loyal-service/internal/gophermart/user/model"
+	"github.com/Sayfargo/gophermart-loyal-service/internal/testenv"
+	gophermartMigrations "github.com/Sayfargo/gophermart-loyal-service/migrations/gophermart"
 	"github.com/google/uuid"
 	"github.com/jackc/pgx/v5/pgxpool"
 	"github.com/shopspring/decimal"

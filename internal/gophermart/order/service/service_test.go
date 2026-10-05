@@ -7,8 +7,8 @@ import (
 	"log/slog"
 	"testing"
 
-	"github.com/CimaCha/gophermart-loyal-service/internal/gophermart/order/model"
-	orderrepo "github.com/CimaCha/gophermart-loyal-service/internal/gophermart/order/repository"
+	"github.com/Sayfargo/gophermart-loyal-service/internal/gophermart/order/model"
+	orderrepo "github.com/Sayfargo/gophermart-loyal-service/internal/gophermart/order/repository"
 	"github.com/google/uuid"
 	"github.com/stretchr/testify/assert"
 	mock "github.com/stretchr/testify/mock"

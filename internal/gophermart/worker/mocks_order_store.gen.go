@@ -7,7 +7,7 @@ package worker
 import (
 	"context"
 
-	"github.com/CimaCha/gophermart-loyal-service/internal/gophermart/order/model"
+	"github.com/Sayfargo/gophermart-loyal-service/internal/gophermart/order/model"
 	"github.com/jackc/pgx/v5"
 	"github.com/shopspring/decimal"
 	mock "github.com/stretchr/testify/mock"

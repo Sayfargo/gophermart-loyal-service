@@ -7,7 +7,7 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/CimaCha/gophermart-loyal-service/internal/accrual/order/model"
+	"github.com/Sayfargo/gophermart-loyal-service/internal/accrual/order/model"
 	"github.com/shopspring/decimal"
 
 	"github.com/jackc/pgx/v5"

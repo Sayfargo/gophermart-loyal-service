@@ -5,7 +5,7 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/CimaCha/gophermart-loyal-service/internal/accrual/goods/model"
+	"github.com/Sayfargo/gophermart-loyal-service/internal/accrual/goods/model"
 )
 
 // GoodsRepository определяет интерфейс для взаимодействия со слоем постоянного хранения данных товаров.

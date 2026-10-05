@@ -7,7 +7,7 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/CimaCha/gophermart-loyal-service/internal/accrual/goods/model"
+	"github.com/Sayfargo/gophermart-loyal-service/internal/accrual/goods/model"
 	"github.com/jackc/pgx/v5/pgconn"
 	"github.com/jackc/pgx/v5/pgxpool"
 )

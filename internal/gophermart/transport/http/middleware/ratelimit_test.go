@@ -6,7 +6,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/CimaCha/gophermart-loyal-service/pkg/ratelimitstore"
+	"github.com/Sayfargo/gophermart-loyal-service/pkg/ratelimitstore"
 	"github.com/stretchr/testify/require"
 )
 

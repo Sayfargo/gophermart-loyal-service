@@ -9,8 +9,8 @@ import (
 	"log/slog"
 	"net/http"
 
-	"github.com/CimaCha/gophermart-loyal-service/internal/gophermart/balance/model"
-	"github.com/CimaCha/gophermart-loyal-service/internal/gophermart/transport/ctxkeys"
+	"github.com/Sayfargo/gophermart-loyal-service/internal/gophermart/balance/model"
+	"github.com/Sayfargo/gophermart-loyal-service/internal/gophermart/transport/ctxkeys"
 	"github.com/google/uuid"
 	"github.com/shopspring/decimal"
 )

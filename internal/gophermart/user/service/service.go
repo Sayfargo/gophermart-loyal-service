@@ -8,8 +8,8 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/CimaCha/gophermart-loyal-service/internal/gophermart/user/model"
-	userrepo "github.com/CimaCha/gophermart-loyal-service/internal/gophermart/user/repository"
+	"github.com/Sayfargo/gophermart-loyal-service/internal/gophermart/user/model"
+	userrepo "github.com/Sayfargo/gophermart-loyal-service/internal/gophermart/user/repository"
 	"github.com/google/uuid"
 )
 

@@ -7,9 +7,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/CimaCha/gophermart-loyal-service/internal/accrual/order/model"
-	"github.com/CimaCha/gophermart-loyal-service/internal/testenv"
-	accrualMigrations "github.com/CimaCha/gophermart-loyal-service/migrations/accrual"
+	"github.com/Sayfargo/gophermart-loyal-service/internal/accrual/order/model"
+	"github.com/Sayfargo/gophermart-loyal-service/internal/testenv"
+	accrualMigrations "github.com/Sayfargo/gophermart-loyal-service/migrations/accrual"
 	"github.com/jackc/pgx/v5/pgxpool"
 	"github.com/shopspring/decimal"
 	"github.com/stretchr/testify/assert"

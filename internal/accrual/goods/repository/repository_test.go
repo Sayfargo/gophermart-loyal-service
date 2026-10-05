@@ -10,9 +10,9 @@ import (
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 
-	"github.com/CimaCha/gophermart-loyal-service/internal/accrual/goods/model"
-	"github.com/CimaCha/gophermart-loyal-service/internal/testenv"
-	accrualMigrations "github.com/CimaCha/gophermart-loyal-service/migrations/accrual"
+	"github.com/Sayfargo/gophermart-loyal-service/internal/accrual/goods/model"
+	"github.com/Sayfargo/gophermart-loyal-service/internal/testenv"
+	accrualMigrations "github.com/Sayfargo/gophermart-loyal-service/migrations/accrual"
 )
 
 var testPool *pgxpool.Pool

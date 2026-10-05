@@ -12,9 +12,9 @@ import (
 	"strings"
 	"time"
 
-	"github.com/CimaCha/gophermart-loyal-service/internal/gophermart/order/model"
-	ordersvc "github.com/CimaCha/gophermart-loyal-service/internal/gophermart/order/service"
-	"github.com/CimaCha/gophermart-loyal-service/internal/gophermart/transport/ctxkeys"
+	"github.com/Sayfargo/gophermart-loyal-service/internal/gophermart/order/model"
+	ordersvc "github.com/Sayfargo/gophermart-loyal-service/internal/gophermart/order/service"
+	"github.com/Sayfargo/gophermart-loyal-service/internal/gophermart/transport/ctxkeys"
 	"github.com/google/uuid"
 	"github.com/shopspring/decimal"
 )

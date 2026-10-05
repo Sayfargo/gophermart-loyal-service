@@ -5,9 +5,9 @@ import (
 	"errors"
 	"testing"
 
-	"github.com/CimaCha/gophermart-loyal-service/internal/gophermart/user/model"
-	userrepo "github.com/CimaCha/gophermart-loyal-service/internal/gophermart/user/repository"
-	mock "github.com/CimaCha/gophermart-loyal-service/internal/gophermart/user/service/mock"
+	"github.com/Sayfargo/gophermart-loyal-service/internal/gophermart/user/model"
+	userrepo "github.com/Sayfargo/gophermart-loyal-service/internal/gophermart/user/repository"
+	mock "github.com/Sayfargo/gophermart-loyal-service/internal/gophermart/user/service/mock"
 	"github.com/google/uuid"
 	testifymock "github.com/stretchr/testify/mock"
 	"github.com/stretchr/testify/require"

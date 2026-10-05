@@ -1,4 +1,4 @@
-module github.com/CimaCha/gophermart-loyal-service
+module github.com/Sayfargo/gophermart-loyal-service
 
 go 1.26.5
 
